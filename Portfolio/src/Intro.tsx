@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import './App.css'
 
-function App() {
+function Intro() {
   // const [count, setCount] = useState(0)
 
   return (
@@ -11,4 +10,4 @@ function App() {
   )
 }
 
-export default App
+export default Intro
