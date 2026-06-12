@@ -16,6 +16,13 @@ fade-in
 /*
 text hover
 */
+.textHover-container {
+  position: relative; /* 기준점 설정 */
+}
+
+.textHover-container img {
+  display: block;
+}
 
 .text-overlay {
   position: absolute;
